@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SocialEvent</string>
+    <string name="login_text">Login Page</string>
+    <string name="username_text">User Name</string>
+    <string name="password_text">PassWord</string>
+    <string name="attempts_text">Attempts:</string>
+    <string name="button_login">LOGIN</string>
+    <string name="txt_done">Done</string>
+    <string name="txt_search">Search</string>
+    <string name="title_activity_maps_api">Map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
